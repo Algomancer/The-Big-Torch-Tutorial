@@ -8,11 +8,6 @@ The Torch is a scientific computing framework with wide support for machine lear
 
 
 **Day 1**
-
-[Setting Up](https://github.com/Algomancer/The-Big-Torch-Tutorial/blob/master/Day-1/0%20-%20Setting%20Up.md)
-
-
-[Getting Started With Lua](https://github.com/Algomancer/The-Big-Torch-Tutorial/blob/master/Day-1/1%20-%20Getting%20Started%20with%20Lua.md)
-
-
-[Getting Started With Torch](https://github.com/Algomancer/The-Big-Torch-Tutorial/blob/master/Day-1/2%20-%20Getting%20Started%20With%20Torch.md)
+- [Setting Up](https://github.com/Algomancer/The-Big-Torch-Tutorial/blob/master/Day-1/0%20-%20Setting%20Up.md)
+- [Getting Started With Lua](https://github.com/Algomancer/The-Big-Torch-Tutorial/blob/master/Day-1/1%20-%20Getting%20Started%20with%20Lua.md)
+- [Getting Started With Torch](https://github.com/Algomancer/The-Big-Torch-Tutorial/blob/master/Day-1/2%20-%20Getting%20Started%20With%20Torch.md)
