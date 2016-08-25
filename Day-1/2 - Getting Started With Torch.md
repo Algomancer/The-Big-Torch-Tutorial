@@ -30,6 +30,8 @@ require 'torch'
  tensorA = torch.Tensor(2, 3, 3, 2)
  --- Dimensions of a Tensor can queried with nDimension() or dim()
  print(tensorA:nDimension(), tensorA:dim())
+ local l = torch.Tensor(5,5)
+ local j = torch.Tensor(5,5)
 ```
  Te internal data representation of a Tensor is contained within a Storage.
 
@@ -90,14 +92,11 @@ however all functions also support passing the target Tensor(s) as the first arg
 print( torch.sum(tensorC) )
 --- Is equivilent to
 print( tensorC:sum())
-
-print(torch.sqrt(36))
-print(tensorX * 3 - tensorY)
-print(tensorX:pow(2))
-
 ```
 
 ## Exercise
+
+What is the difference between a Storage and a Tensor?
 
 Add two tensors
 
