@@ -21,7 +21,7 @@ source ~/.zshrc
 source ~/.profile
 ```
 
-LuaRocks is the package manager for Lua modules. You can browse lua packages over at (LuaRocks.org)[https://luarocks.org/]
+LuaRocks is the package manager for Lua modules. You can browse lua packages over at [LuaRocks.org](https://luarocks.org/)
 
 
 ## Development Workflow
