@@ -25,6 +25,7 @@ LuaRocks is the package manager for Lua modules. You can browse lua packages ove
 new packages can be installed with 
 ```luarocks install {PACKAGE_NAME}```
 
+You can start the torch repl with ```th```
 
 ## Development Workflow
 
