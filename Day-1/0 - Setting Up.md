@@ -22,6 +22,8 @@ source ~/.profile
 ```
 
 LuaRocks is the package manager for Lua modules. You can browse lua packages over at [LuaRocks.org](https://luarocks.org/)
+new packages can be installed with 
+```luarocks install image```
 
 
 ## Development Workflow
