@@ -29,6 +29,6 @@ You can start the torch repl with ```th```
 
 ## Development Workflow
 
-I have found the most productive workflow fuses a traditional text editor with the power of Jupyter (the interactive environment). The best fit I have found is to use atom.io with [Hydrogen](https://atom.io/packages/hydrogen) the This package lets you run your code directly in Atom using any Jupyter kernels you have installed. Ensure you have jupyter on your PATH  ```pip install jupyter``` 
+I have found the most productive workflow fuses a traditional text editor with the power of Jupyter (the interactive environment). The best fit I have found is to use [atom.io](https://atom.io/) with [Hydrogen](https://atom.io/packages/hydrogen) the hydrogen package lets you run your code directly in Atom using any Jupyter kernels you have installed. Ensure you have jupyter on your PATH  ```pip install jupyter``` 
 
-![Alt Text](http://i.imgur.com/mBDF0Lu.gif)
+![Hydrogen](http://i.imgur.com/mBDF0Lu.gif)
