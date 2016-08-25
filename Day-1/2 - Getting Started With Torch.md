@@ -111,7 +111,7 @@ b = torch.Tensor(2,5):fill(4)
 print(addTensors(a,b))
 ```
 
- Using torch functions, calculate the euclidean distance of A -> B (you should get ~5.83095)
+ Using torch functions, calculate the [euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) of A -> B (you should get ~5.83095)
 
 ```lua
 A = torch.Tensor({2, -1, 2})
