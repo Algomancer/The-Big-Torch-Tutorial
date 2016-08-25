@@ -2,7 +2,7 @@
 This guide assumes general programming knowledge, for a rapid introduction to LUA. Tyler Neylon has created a
 concise guide which should take around 15-20 minutes to go through - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
-For a larger guide,  (Programming in Lua )[https://www.lua.org/pil/contents.html] first edition is avaliable for free online.
+For a more in depth introduction  [Programming in Lua](https://www.lua.org/pil/contents.html) first edition is avaliable for free online.
 
 ### Why LuaJIT?
 
